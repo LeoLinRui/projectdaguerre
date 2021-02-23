@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BlurDetection_Clone/Defocus-and-Motion-Blur-Detection-with-Deep-Contextual-Features" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BlurDetection_Clone/Tensorflow_Defocus-and-Motion-Blur-Detection-with-Deep-Contextual-Features/deep_blur_detection_and_classification" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FaceDetection_Clone/DSFD-Pytorch-Inference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FaceDetection_Clone/FaceDetection-DSFD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pose Estimation/COCOAPI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SceneDetection_Clone/places365" vcs="Git" />
+  </component>
+</project>
